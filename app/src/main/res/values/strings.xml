@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lembrete</string>
+    <string name="label_new_task">Criar Lembrete</string>
+    <string name="label_title">Título</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_tasks">Lembrete</string>
+    <string name="label_description_new_task">Novo Lembrete</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_you_dont_have_tasks">Ops! Você não possui\n nenhum Lembrete</string>
+</resources>
